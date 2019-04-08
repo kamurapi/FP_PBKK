@@ -9,7 +9,7 @@
 - Magdalane Andin   05111640000112
 
 ## Deskripsi :
-    E-Countant adalah aplikasi pembukuan/akuntasi yang dapat menyimpan data pemasukan dan pengeluaran yang akan direkap secara langsung menjadi bentuk buku besar,bulanan hingga buku tahun. Pengguna hanya menginputkan data tersebut sekali saja dan sistem otomatis membuatkan rekapan dalam bentuk pembukuan lainnya.
+E-Countant adalah aplikasi pembukuan/akuntasi yang dapat menyimpan data pemasukan dan pengeluaran yang akan direkap secara langsung menjadi bentuk buku besar,bulanan hingga buku tahun. Pengguna hanya menginputkan data tersebut sekali saja dan sistem otomatis membuatkan rekapan dalam bentuk pembukuan lainnya.
     
  Data yang diinputkan user berupa :
  - Tanggal
