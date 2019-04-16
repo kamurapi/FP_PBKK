@@ -13,13 +13,17 @@ E-Countant adalah aplikasi pembukuan/akuntasi yang dapat menyimpan data pemasuka
     
 
 ## 1 . Use Case :
-use case diagram yang dibuat ada pada folder use case
+File Use Case diagram yang telah dibuat ada pada folder use case.
+Berikut gambar dari use case diagram yang dibuat:
+![a](use case/use_case.PNG)
 
 ## 2. Site Map:
-site map yang dibuat ada pada folder  sitemap 
+site map yang dibuat berada pada folder  sitemap.
+Berikut gambar dari sitemap yang dibuat:
+![b](sitemap/sitemap.jpg)
 
 ## 3. Tampilan Web
-Untuk Spring Code nya ada di folder E-COUNTANT.
+Spring Code project nya berada pada folder E-COUNTANT.
 Untuk contoh tampilan web sebagai berikut:
 
 ### a. Tampilan login page
