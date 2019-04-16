@@ -15,7 +15,7 @@ E-Countant adalah aplikasi pembukuan/akuntasi yang dapat menyimpan data pemasuka
 ## 1 . Use Case :
 File Use Case diagram yang telah dibuat ada pada folder use case.
 Berikut gambar dari use case diagram yang dibuat:
-![a](use case/use_case.PNG)
+![a](use_case/use_case.PNG)
 
 ## 2. Site Map:
 site map yang dibuat berada pada folder  sitemap.
