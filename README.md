@@ -21,8 +21,15 @@ site map yang dibuat ada pada folder  sitemap
 ## 3. Tampilan Web
 Untuk Spring Code nya ada di folder E-COUNTANT.
 Untuk contoh tampilan web sebagai berikut:
-![Ilustrasi Login](/img/login_page.png)
-![Ilustrasi Dashboard](/img/dashboard_page.png)
-![Ilustrasi User Profile](/img/profil_page1.png)
-!(/img/profil_page2.png)
+
+### a. Tampilan login page
+![1](img/login_page.png)
+
+### b. Tampilan Dasboarad (after login)
+![2](img/dashboard_page.PNG)
+
+
+### c. Tampilan User Profile
+![3](img/profil_page1.PNG)
+![4](img/profil_page2.PNG)
 
